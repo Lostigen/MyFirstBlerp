@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstBlerp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34908bf0e23622297e5262c7999ae3c079b8e19a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstBlerp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstBlerp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
